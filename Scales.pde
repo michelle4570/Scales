@@ -17,8 +17,7 @@ void draw() {
   }
 }
 
-}
-void scale(int x, int y) {
+void sScale(int x, int y) {
   int r = 100 + (int)(Math.random()*12);
   int g = 150 + (int)(Math.random()*40);
   int b = 100 + (int)(Math.random()*12);
